@@ -4,7 +4,7 @@ let signer;
 let contract;
 
 // Define the contract details (use your actual contract address and ABI)
-const contractAddress = "YOUR_CONTRACT_ADDRESS"; // Replace with your contract address
+const contractAddress = "0xC627D68966A44f3ec7605d4F26060f37CC486DA4"; // Replace with your contract address
 const abi = [
     {
         "inputs": [],
