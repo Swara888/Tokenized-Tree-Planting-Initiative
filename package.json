@@ -1,5 +1,5 @@
 {
-  "name": "ecofi-tokenized-trees",
+  "name": "tokenizedtree-frontend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,13 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "@openzeppelin/contracts": "^5.2.0",
-    "dotenv": "^16.4.7",
-    "hardhat": "^2.22.19"
-  },
   "dependencies": {
-    "ethers": "^6.13.5"
+    "ethers": "^5.4.6"
   }
 }
